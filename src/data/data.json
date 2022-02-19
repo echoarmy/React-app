@@ -1,0 +1,155 @@
+{
+  "Header": {
+    "title": "This is A landing Page for TechMihirNaik ",
+    "paragraph": "FIND THE MOST EXCITING START-UP JOB WITH TECHMIHIRNAIK"
+  },
+  "About": {
+    "paragraph": "FIND THE MOST EXCITING START-UP JOB WITH TECHMIHIRNAIK Groups. ",
+    "Why": [
+      "High paying job",
+      "Startups where learning rate is "
+    ],
+    "Why2": [
+      "You should choose us because we are best in this industry"
+      
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Sample Image",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Any sample Image",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "What services we provide",
+      "text": "We provide Jobs to needy people in startups"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Best place for job searching \"",
+      "name": "Aryan"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Best place for job searching\"",
+      "name": "Samarth"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Best place for job searching\"",
+      "name": "Rajeev"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Best place for job searching\"",
+      "name": "Shilpa"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Best place for job searching\"",
+      "name": "Prashant"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Best place for job searching\"",
+      "name": "Shikha"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mihir Naik",
+      "job": "Ceo "
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Ujjwal Prashant",
+      "job": "Frontend Engineer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Warehousing Bandra, Maharashtra ",
+    "phone": "+91123456789",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comments",
+      "text": "Find the best startup jobs with Techmihirnaik "
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Listen",
+      "text": "Techmirak"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Groups",
+      "text": "New groups can be seen here."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Anything special",
+      "text": "Something text "
+    }
+  ]
+}

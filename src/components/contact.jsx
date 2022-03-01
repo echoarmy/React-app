@@ -151,7 +151,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             This page is made by { }
-            <a href='https://www.linkedin.com/in/ujjwalprashant/' target="_blank" >
+            <a href='https://www.linkedin.com/in/ujjwalprashant/' target="_blank" rel="noreferrer" >
               Ujjwal Prashant
             </a>
           </p>
